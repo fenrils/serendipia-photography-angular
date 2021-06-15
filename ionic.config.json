@@ -1,0 +1,8 @@
+{
+  "name": "SerendipiaPhotographyANGULAR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b4f53e10"
+}
